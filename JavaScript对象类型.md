@@ -8,7 +8,7 @@
 
 |* JavaScript预定义的本地对象* |
 
-
+|    |     |     |      |     |     |
 | :--: | ------------ |----------------| ----------------|----------------| :--: |
 | Object | Function | Array | String | Boolean | Number |
 | Data | RegExp | Error | EvalError | RangeError | ReferenceError |
