@@ -7,6 +7,7 @@
 本地对象就是独立于宿主环境的JavaScript预定义对象，这些本地对象实际上都是抽象的类，通俗说就是构造函数，本地对象的主要成员如下表所示。由于用户自定义的对象都是本地对象的具体事例，所以他们应该属于本地对象范畴。
 
 |* JavaScript预定义的本地对象* |
+| :--: | ------------ | ----------------|----------------|----------------| :--: |
 |Object | Function | Array | String | Boolean | Number |
 |Data | RegExp | Error | EvalError | RangeError | ReferenceError |
 |SyntaxError | TypeError | URLError |
