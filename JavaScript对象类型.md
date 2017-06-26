@@ -13,3 +13,9 @@
 | Object | Function | Array | String | Boolean | Number |
 | Data | RegExp | Error | EvalError | RangeError | ReferenceError |
 | SyntaxError | TypeError | URLError |
+
+<table>
+<tr> 
+<td>Object</td><td>Function</td>
+</tr>
+</table>
